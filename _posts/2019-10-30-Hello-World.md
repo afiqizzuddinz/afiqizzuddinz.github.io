@@ -1,22 +1,19 @@
 ---
 title: "CipherText CTF 2018: Reverse Engineering Challenges Writeup"
-date: "2018-12-31"
+date: "2019-10-30"
 layout: single
 comments: true
 share: true
 related: true
 author_profile: true
 tags:
-- CTF
-- CipherText CTF
-- Reverse Engineering
+- Hello
+- Knowledge
 categories:
-- CTF Write-up
+- Hello
 ---
 
-Hye, Assalamualaikum. First of all, this is the first version of CipherText CTF. It’s a first Online Cyber Security competition for all Arab talents in security field. Imran (My teammate) and I playing this game only for fun and of course, to improve our knowledge and skills in this type of security challenge. From 319 teams, we (Ultraman) managed to got 24th place for this CTF.
-
-The scoreboard:-
+Hello and Assalamualaikum. This will be my first post and I'm getting used to it since I always refer to this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet") and yeah, Welcome!
 
 ![enter image description here](https://lh3.googleusercontent.com/meeiESMrPYV32sTLdvoUSfZbePGJiQshKJzGZCu-8-SB0IHSBtWLKl9v05cpU7ecz85KJ8duFwk_){: .align-center}
 
