@@ -5,7 +5,9 @@ author_profile: true
 
 ---
 
-Hello, my name is Afiq Izzuddin. 
+![alt text](../assets/images/fb.jpg "cak")
+
+Yup, the man in the middle is me, Afiq Izzuddin. 
 
 I'm 21 years old. 
 Currently studying Bachelor of Computer Security in UTeM.
