@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: https://afiqizzuddinz.github.io/
+#  - title: "CTF Checklist 🚩"
+#    url: /checklist/
+#  - title: "Online CTF List 💻"
+#    url: /ctfonline/
+  - title: "Archives"
+    url: /archives/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "$ whoami"
+    url: /about/

@@ -1,1 +1,1 @@
-# afiqizzuddinz.github.io
+# fareedfauzi.github.io
