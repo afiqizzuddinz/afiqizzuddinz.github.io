@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-![alt text](../assets/images/fb.jpg "cak")
+![alt text](https://github.com/afiqizzuddinz/afiqizzuddinz.github.io/blob/master/assets/fb.jpg "cak")
 
 Yup, the man in the middle is me, Afiq Izzuddin. 
 
