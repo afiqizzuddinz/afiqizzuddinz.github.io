@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Afiq Izzuddin"
-  avatar           : /assets/logoreal.png
+  avatar           : /assets/ultraman.jpg
   bio              : "Sharing is gaining new knowledge"
   location         : "Somewhere in MY"
   email            : eyezzuddin@gmail.com
